@@ -1,0 +1,44 @@
+Base is: 10.0
+Exponent is: -Infinity
+Log Value is : 0
+
+Base is: 10.0
+Exponent is: 0.0
+Log Value is : 1
+
+Base is: 10.0
+Exponent is: 0.3010299956639812
+Log Value is : 2
+
+Base is: 10.0
+Exponent is: 0.47712125471966244
+Log Value is : 3
+
+Base is: 10.0
+Exponent is: 0.6020599913279624
+Log Value is : 4
+
+Base is: 10.0
+Exponent is: 0.6989700043360189
+Log Value is : 5
+
+Base is: 10.0
+Exponent is: 0.7781512503836436
+Log Value is : 6
+
+Base is: 10.0
+Exponent is: 0.8450980400142568
+Log Value is : 7
+
+Base is: 10.0
+Exponent is: 0.9030899869919435
+Log Value is : 8
+
+Base is: 10.0
+Exponent is: 0.9542425094393249
+Log Value is : 9
+
+Base is: 10.0
+Exponent is: 1.0
+Log Value is : 10
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 6 elements to &apos;Black Jack/src&apos;&#x0A;- Original project: &apos;Black Jack&apos;&#x0A;- Destination element: &apos;Black Jack/src&apos;&#x0A;- Original elements:&#x0A;     BlackJack.java&#x0A;     Recording_2_.wav&#x0A;     TheHouse.java&#x0A;     WordTask.java&#x0A;     AudioPlayerExample1.java&#x0A;     AudioTask.java&#x0A;- Update references to refactored element" description="Move files" destination="/src" element1="BlackJack.java" element2="Recording_2_.wav" element3="TheHouse.java" element4="WordTask.java" element5="AudioPlayerExample1.java" element6="AudioTask.java" files="6" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1447678915592" units="0" version="1.0"/>
+</session>

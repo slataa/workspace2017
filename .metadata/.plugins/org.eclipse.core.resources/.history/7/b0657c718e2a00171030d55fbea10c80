@@ -1,0 +1,19 @@
+package HelloWorld;
+
+import java.util.Scanner;
+
+public class World 
+{
+	Scanner input = new Scanner(System.in);
+	int number;
+	public void enterNum()
+	{
+		System.out.println("Please enter an integer");
+		number = input.nextInt();
+	}
+	
+	public int getNum()
+	{
+		return number;
+	}
+}

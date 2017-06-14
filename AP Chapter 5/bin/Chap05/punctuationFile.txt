@@ -1,0 +1,6 @@
+This is an input file for PunctuationCounter.java. It will be scanned for
+punctuation marks. For instance, it will find period and commas, as well
+as semicolons, dashes, and others. It will count the number of each
+punctuation mark encountered; the results will be summarized. As a wise
+man once said "Count your marks." Well, it's not the most wise statement
+you've ever heard, but give me a break - I'm making this up as I go.

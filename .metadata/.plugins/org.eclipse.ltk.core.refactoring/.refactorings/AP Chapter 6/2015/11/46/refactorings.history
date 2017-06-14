@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;AP Chapter 6/src/cardAPlab&apos;&#x0A;- Original project: &apos;AP Chapter 6&apos;&#x0A;- Destination element: &apos;AP Chapter 6/src/cardAPlab&apos;&#x0A;- Original elements:&#x0A;     CardTester.java&#x0A;     Card.java&#x0A;- Update references to refactored element" description="Move files" destination="/src&lt;cardAPlab" element1="src/Activity Starter Code/Activity1 Starter Code/CardTester.java" element2="src/Activity Starter Code/Activity1 Starter Code/Card.java" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1447244642757" units="0" version="1.0"/>
+</session>
